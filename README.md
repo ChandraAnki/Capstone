@@ -29,10 +29,3 @@ This project involves:
 - **Optimization Algorithms:** Linear Programming or Genetic Algorithms (for charging station location optimization)
 - **Data Sources:** U.S. Department of Energy (DOE), U.S. Department of Transportation (DOT)
 
-## How to Run the Project
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/ev-sales-prediction.git
-   cd ev-sales-prediction
-
